@@ -1,0 +1,12 @@
+nav, footer {
+    background:black;
+    color: white;
+}
+
+.left{
+    background: pink;
+}
+
+.right{
+    background: orchid;
+}
